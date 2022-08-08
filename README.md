@@ -1,4 +1,4 @@
-## Guilherme ou Drako, aspirante a programador
+## Guilherme, aspirante a programador
 <div align="center">
   <a href="https://github.com/drakozz">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=drakozz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
