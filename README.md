@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="200" src="https://github.com/drakozz/drakozz/assets/85371143/6519992e-21c6-4079-a654-fb48a3de8c78"  />
+  <img height="250" src="https://github.com/drakozz/drakozz/assets/85371143/6519992e-21c6-4079-a654-fb48a3de8c78"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 Estudando para seguir carreira como Web Developer Full Stack.<br><br>🤔 Apaixonado por tecnologia e filosofia.<br><br>🎮 No meu tempo livre gosto de ler, escrever, desenhar e jogar.</p>
+<p align="left">🎓 Estudando para seguir carreira como Web Developer Full Stack.<br><br>🤔 Apaixonado por tecnologia e filosofia.<br><br>🎮 Meus hobbies são jogar, ler, escrever e também desenhar.</p>
 
 ###
 
