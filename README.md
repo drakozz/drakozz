@@ -1,30 +1,14 @@
-<div align="left">
-  <img height="250" src="https://github.com/drakozz/drakozz/assets/85371143/6519992e-21c6-4079-a654-fb48a3de8c78"  />
-</div>
+## Guilherme Peres
 
-###
+Apaixonado por programação e tecnologia.
 
-<h2 align="left">Sobre Mim</h2>
+Aqui, você encontrará projetos e contribuições que refletem meu interesse por resolver problemas e aprender constantemente. Gosto de trabalhar em desafios que me permitem desenvolver habilidades e compartilhar conhecimento.
 
-###
+Atualmente trabalhando com Vuejs, Nuxt, JS e TS.
 
-<p align="left">🎓 Estudando para seguir carreira como Web Developer Full Stack.<br><br>🤔 Apaixonado por tecnologia e filosofia.<br><br>🎮 Meus hobbies são jogar, ler, escrever e também desenhar.</p>
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ggui-peres/) ou, se preferir, entre em contato pelo e-mail guilhermeperesdc@gmail.com. 
 
-###
+“A vida só pode ser compreendida olhando-se para trás, mas só pode ser vivida olhando-se para a frente” - Kierkegaard
 
-<h2 align="left">Stack and Tools</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-</div>
-
-###
+![enter image description here](https://github.com/user-attachments/assets/c9fae91c-7c7e-46b4-90ea-5a7d9854da73)⠀⠀⠀⠀⠀⠀
